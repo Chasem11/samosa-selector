@@ -33,7 +33,7 @@ function App() {
         <div className="header">
           <h1>Samosa Selector</h1>
           <h2>Count: {count}</h2>
-          <img className="samosa" src="https://t4.ftcdn.net/jpg/05/11/08/05/360_F_511080597_NvqjRdezlARSQHy4VpAKFvUVTEeGdlLy.jpg" onClick={updateCount} />
+          <img className="samosa" src="https://fastpng.com/images/high/samosa-amd7wsud1xug04mv.webp" onClick={updateCount} />
         </div>
         <div className="container">
           <div className="upgrade">
